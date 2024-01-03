@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Abhinav Vishwakarma 👋
 
-<!--
-**avabhi/avabhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer specializing in web development. I have a passion for learning and sharing my knowledge with others as clear as possible. If you found value in something I have created, please feel free to give me a 🌟, fork the repo and share with your friends!
 
-Here are some ideas to get you started:
+## 🛠️ My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Development: JavaScript | React | Node.js | NextJS | Express 
+- Database: PostgreSQL | MongoDB | firebase
+- Tools: Git, GitHub, VSCode
+
+## 📫 How to reach me:
+
+You can find and get touch with me on these accounts!
+
+- GitHub: [avabhi] (https://github.com/avabhi)
+- LinkedIn: [Abhinav Vishwakarma] (https://www.linkedin.com/in/abhinav-v-02bb64107/)
+- Email: [Abhinav Vishwakarma] (vabhinav368@gmail.com)
+
+Thanks for visiting my profile!
